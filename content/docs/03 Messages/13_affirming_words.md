@@ -1,9 +1,9 @@
 ---
 weight: 13
 title: Affirming Words
-tags: 
 authors: Joni Eareckson Tada, translated by Lenny Lin
 categories: null
+tags: 
 date: "2022-08-06"
 description: 
 draft: false

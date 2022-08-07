@@ -1,5 +1,5 @@
 ---
-weight: 
+weight: 99
 authors: Joni Eareckson Tada, translated by Lenny Lin
 categories: null
 date: "2022-08-06"

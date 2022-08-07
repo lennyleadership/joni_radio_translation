@@ -1,16 +1,17 @@
 ---
 weight: 12
+title: The Bush Doesn't Matter  让上帝使用我们
 authors: Joni Eareckson Tada, translated by Lenny Lin
 categories: null
+tags: null
 date: "2022-04-21"
 description: 
 draft: false
 lastmod: "2022-05-21"
 series: null
-tags: null
-title: The Bush Doesn't Matter  让上帝使用我们
 toc: true
 ---
+
 APRIL 21ST, 2022 | 04:00 | E42122  
 
 We are like Moses’ burning bush, vessels through which the Lord speaks. There was nothing special about that bush, yet God chose to use it for his glorious purposes! How much more so will he use us?  

@@ -2,20 +2,19 @@
 weight: 6
 authors: Joni Eareckson Tada, translated by Lenny Lin
 categories: null
+tags: [Binding]
 date: "2022-07-30"
 description: 
 draft: false
 lastmod: "2022-07-30"
 series: null
-tags: 
+
 title: Wedding Vows
 toc: true
 ---
 JULY 1ST, 2022 | 04:00 | E70122
 
-We are reflecting God when we promise never to leave the ones to whom we’re committed. So stay true to your wedding vows!
-
-Keywords: Binding, smooth out
+Keywords: Binding
 <!--more-->
 ---
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/f8120192-92e7-42f3-83aa-53780907e125?dark=false"></iframe>

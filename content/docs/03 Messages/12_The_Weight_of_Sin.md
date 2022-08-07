@@ -12,8 +12,6 @@ title: The Weight of Sin  罪的负荷
 toc: true
 ---
 
-
-
 APRIL 15TH, 2022 | 04:00 | E41522   
 
 Did you know there’s a plant called the “Crown of Thorns?” Aside from having beautiful blossoms, it also has sharp, nail-like thorns. Joni explains that this plant reminds her every Easter of the brutality of what Jesus suffered on our behalf. This remembrance leads to praise and thanksgiving to Jesus for all he’s done!  
