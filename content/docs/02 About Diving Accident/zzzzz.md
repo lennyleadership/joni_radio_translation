@@ -1,7 +1,7 @@
 ---
 weight: 
 title: 
-authors: Joni Eareckson Tada, translated by Lenny Lin
+authors: Joni Eareckson Tada, edited and translated by Lenny Lin
 categories: null
 tags: 
 date: "2022-08-06"
@@ -15,5 +15,8 @@ toc: true
 <!--more-->
 ---
 
+## English Transcript
+
+## 中文稿
 
 © Joni and Friends
