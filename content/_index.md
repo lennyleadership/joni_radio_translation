@@ -3,12 +3,19 @@ title: Introduction
 type: docs
 ---
 
+
+
+
+<div class = "column">
 <div class = "row">
-  <figure>
-<iframe width="360" height="200" src="https://www.youtube.com/embed/r12yYQvvOSk" title="Glorious Day Ahead | Diamonds In The Dust with Joni Eareckson Tada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style ="float: left" HSPACE="10" VSPACE="10"></iframe>
-<figcaption>Video: Glorious Day Ahead | Diamonds In The Dust with Joni Eareckson Tada | Aug 7, 2022</figcaption>
-  </figure>
+<iframe width="360" height="200" src="https://www.youtube.com/embed/r12yYQvvOSk" title="Glorious Day Ahead | Diamonds In The Dust with Joni Eareckson Tada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>  
+
+<span style = "font-size:70%">Glorious Day Ahead | Diamonds In The Dust | Joni Eareckson Tada   
+Aug 7, 2022</span>
 </div>
+</div>
+
+  
 
 I was inspired and touched by Joni and Friends 4-minute Radio program hosted by Joni Eareckson Tada many years ago.  Her messages are not the "Chicken Soups for the Soul" to me.  I guess that is not her intent, instead her messages led me, a non-physically handicapped Christian, to Jesus - my Lord.  I am one of her followers, but more than that, as she follows Jesus, my eyes focus on Jesus.  That is the power of her messages.
 
