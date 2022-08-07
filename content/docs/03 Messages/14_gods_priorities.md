@@ -13,7 +13,7 @@ toc: true
 ---
 JULY 14TH, 2022 | 04:00 | E71422
 
-Being healed from sin is far, far more important than being healed of physical <a title = "Definition: a physical disorder or illness, especially of a minor or chronic nature.">ailments</a>.
+Being healed from sin is far, far more important than being healed of physical <a class = "hovertip" data-html="true" tooltip_text ="Definition: a physical disorder or illness, especially of a minor or chronic nature.">ailments</a>.
 
 <!--more-->
 ---

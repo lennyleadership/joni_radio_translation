@@ -15,12 +15,12 @@
   
   overflow-y: inherit; /*new*/
 
-  width: 250px;
+  width: auto;
   background-color: #add8e6;
   color: black;
   text-align: left;
   border-radius: 5px;
-  padding: 5px 0;
+  padding: 5px 5px;
   /* fade-in*/
   opacity: 0;  
   transition: opacity 1s ease-in-out;
