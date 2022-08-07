@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 1
 authors: Joni Eareckson Tada, translated by Lenny Lin
 categories: null
 date: "2022-07-30"
@@ -27,3 +27,6 @@ But not my sister Kathy. She was the one who, that day, rescued me from being dr
 From the beginning, my sister was convinced that crab was sent on a divine mission. Like, what are the odds of a crab biting somebody’s toe at the very instant that person needs to be alerted of an emergency, right? Kathy kept insisting that God put that crab right there and made it bite her toe to get her attention. And my sister was right. That day, God miraculously saved me from death-by-drowning. But it was only the beginning of more miracles. The night when they rushed me to the Intensive Care Unit, I had no idea that my accident would set in motion a chain of events that would ultimately lead to a closer walk with Christ and a ministry to thousands of paralyzed people like me. God’s infinite wisdom saw a way to bring the greatest good out of terrible pain. And Joni and Friends is part of that amazing plan. And to think it all began with a little crab! The way I figure it, if God can manage the “wanderings” of this little tiny sea creature, how much more does his love guide and protect us?! So I say, “Well done, crab!” And as John Piper says, “God will do 10,000 things in your life that you cannot see. So trust him. Love him. And all those things will turn out good for you.” So would you celebrate the so-called innocuous, insignificant little things in your life. ’Cause through them, God’s up to something good. I mean really good.
 
 I describe more about God’s plan in the Joni book, and this week – I can’t believe it – this very week they are releasing the 45th-anniversary edition. Forty-five years ago, God began using that humble book to help others learn to embrace Christ in their hardships. And so in this brand-new edition, I’ve included two new chapters, an updated photo section with brand-new snapshots, and there’s a new epilogue, and my friend Bob Goff has even written a great foreword. So join me in celebrating the 45th anniversary of this classic – I guess that’s what they call it. Give it to a young person in your life who might not know the story. Or give a copy to your grandchildren. Help them to learn how to embrace Christ in their hardships. Get all the details about this updated, revised edition of the Joni book. Go to joniradio.org to learn more. Again, we’re celebrating a fresh, 45th-anniversary edition of the Joni book – the story of how I found true and lasting hope in my hardships. 
+
+
+© Joni and Friends
