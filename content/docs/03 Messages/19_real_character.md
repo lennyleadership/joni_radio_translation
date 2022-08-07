@@ -2,7 +2,7 @@
 weight: 19
 title: Real Character
 authors: Joni Eareckson Tada, edited and translated by Lenny Lin
-categories: null
+categories: [Character]
 tags: ["2022-08-05 Real Character"]
 date: "2022-08-07"
 description: 

@@ -2,7 +2,7 @@
 weight: 16
 title: Help When You Can't Go On
 authors: Joni Eareckson Tada, translated by Lenny Lin
-categories: null
+categories: [Build the Other Up]
 tags: [Christian comfort]
 date: "2022-04-08"
 description: 

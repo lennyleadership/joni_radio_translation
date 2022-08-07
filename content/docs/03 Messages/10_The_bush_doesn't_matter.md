@@ -18,10 +18,10 @@ We are like Moses’ burning bush, vessels through which the Lord speaks. There 
 
 我们就像摩西看到的那簇荆棘，上帝在那里面说话。那簇荆棘再普通不过了，可是，上帝却使用它来成就祂荣耀的目的。那么，上帝更会使用我们。
 
-<img width ="360" height= "200" src = "/docs/images/Burning_bush.jpg"/>
-<figcaption><b>Figure </b>: Burning Bush</figcaption>
 <!--more-->
 ---
+<img width ="360" height= "200" src = "/docs/images/Burning_bush.jpg"/>
+<figcaption><b>Figure </b>: Burning Bush</figcaption>
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/fcbb04f8-8236-4dcf-bde8-88ede92709cd?dark=false"></iframe>  
 

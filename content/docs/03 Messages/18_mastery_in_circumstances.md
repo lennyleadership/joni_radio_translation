@@ -2,8 +2,8 @@
 weight: 18
 title: Mastery in Circumstances
 authors: Joni Eareckson Tada, edited and translated by Lenny Lin
-categories: null
-tags: ["2022-08-01 Mastery in Circumstances", "Oswald Chambers", "Character", "Job's character"]
+categories: [Character]
+tags: ["2022-08-01 Mastery in Circumstances", "Oswald Chambers", "Job's character"]
 date: "2022-08-07"
 description: 
 draft: false
