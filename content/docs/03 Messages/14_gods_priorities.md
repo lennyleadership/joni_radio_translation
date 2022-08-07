@@ -3,7 +3,7 @@ weight: 14
 title: "God's Priorities"
 authors: Joni Eareckson Tada, translated by Lenny Lin
 categories: null
-tags: ["2022-07-14 God's Priorities"]
+tags: ["2022-07-14 God's Priorities", "Book of James", "Book of 1 Corinthians"]
 date: "2022-04-08"
 description: 
 draft: false
