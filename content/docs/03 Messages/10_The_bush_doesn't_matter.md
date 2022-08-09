@@ -3,7 +3,7 @@ weight: 12
 title: The Bush Doesn't Matter  让上帝使用我们
 authors: Joni Eareckson Tada, translated by Lenny Lin
 categories: null
-tags: null
+tags: []
 date: "2022-04-21"
 description: 
 draft: false
@@ -49,17 +49,3 @@ The burning bush is an Old Testament example of a New Testament truth: Christ in
 
 
 
-<span onclick="void(0);" class="tooltip">venerate
-  <span class="info">Definition</span>
-  <span class="text"><b>Venerate</b>, a persistent disturbing preoccupation with an often unreasonable idea or feeling.</span>
-</span>
-
-
-<span onclick="void(0);" class="tooltip">obsession
-  <span class="info">
-    <span class="pronounce">[əbˈseʃ(ə)n]<span class="fa fa-volume-up"></span>
-  </span>
-  <span class="text"><b>Obsession</b>, a persistent disturbing preoccupation with an often unreasonable idea or feeling.
-  </span>
-</span>
-</span>
