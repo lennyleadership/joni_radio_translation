@@ -46,3 +46,20 @@ The burning bush is an Old Testament example of a New Testament truth: Christ in
 哦！如此殊荣！能成为上帝拣选的一簇荆棘！请跟我一起祷告：亲爱的耶稣，让我为你燃烧！挑旺我心灵的火焰！让你的生命从我里面发光！耶稣，就是今天！让我为你燃烧！
 
 © [Joni and Friends Radio](https://joniandfriendsradio.simplecast.com/episodes/the-bush-doesnt-matter)
+
+
+
+<span onclick="void(0);" class="tooltip">venerate
+  <span class="info">Definition</span>
+  <span class="text"><b>Venerate</b>, a persistent disturbing preoccupation with an often unreasonable idea or feeling.</span>
+</span>
+
+
+<span onclick="void(0);" class="tooltip">obsession
+  <span class="info">
+    <span class="pronounce">[əbˈseʃ(ə)n]<span class="fa fa-volume-up"></span>
+  </span>
+  <span class="text"><b>Obsession</b>, a persistent disturbing preoccupation with an often unreasonable idea or feeling.
+  </span>
+</span>
+</span>
